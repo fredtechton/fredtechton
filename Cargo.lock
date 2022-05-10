@@ -419,6 +419,7 @@ dependencies = [
  "axum",
  "include_dir",
  "mdbook",
+ "mime_guess",
  "reqwest",
  "serde",
  "serde_json",
